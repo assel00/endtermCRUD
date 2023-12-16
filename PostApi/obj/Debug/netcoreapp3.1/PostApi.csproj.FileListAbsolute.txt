@@ -1,0 +1,6 @@
+C:\Users\Assel\Desktop\Новая папка\PostApi\obj\Debug\netcoreapp3.1\PostApi.csproj.AssemblyReference.cache
+C:\Users\Assel\Desktop\Новая папка\PostApi\obj\Debug\netcoreapp3.1\PostApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Assel\Desktop\Новая папка\PostApi\obj\Debug\netcoreapp3.1\PostApi.AssemblyInfoInputs.cache
+C:\Users\Assel\Desktop\Новая папка\PostApi\obj\Debug\netcoreapp3.1\PostApi.AssemblyInfo.cs
+C:\Users\Assel\Desktop\Новая папка\PostApi\obj\Debug\netcoreapp3.1\PostApi.csproj.CoreCompileInputs.cache
+C:\Users\Assel\Desktop\Новая папка\PostApi\obj\Debug\netcoreapp3.1\PostApi.MvcApplicationPartsAssemblyInfo.cache
